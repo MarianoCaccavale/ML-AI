@@ -1,0 +1,1 @@
+Non essendo una competizione non c'è una submission, gli score sul dataset sono alla fine del notebook
